@@ -5,7 +5,8 @@ Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pac
  <source media="(prefers-color-scheme: light)" srcset="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
  <img alt="My profile banner" src="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
 </picture>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)
 
 [Click here! Welcome to my blog](https://dream-oyh.pages.dev/)
 
