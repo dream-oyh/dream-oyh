@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pace to explore the wide code world. In addition, I am addicted to writing articles on WeChat Public to express enthusiasm for our exciting life. Please keeping curious, after all, *the best people in life are free*.
 
-<!--
-**dream-oyh/dream-oyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
+ <img alt="My profile banner" src="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
+</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[Click here! Welcome to my blog](https://dream-oyh.pages.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill Set
+
+<div class="python" style="display: block-inline;">
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />
+
+</div>
+
+<div class="frontend" style="display: block-inline;">
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+
+</div>
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="c++" height="50" />
+
+visitors: ![Visitor Count](https://profile-counter.glitch.me/dream-oyh/count.svg)
