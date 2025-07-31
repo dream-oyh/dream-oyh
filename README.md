@@ -1,11 +1,5 @@
 Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pace to explore the wide code world. In addition, I am addicted to writing articles on WeChat Public to express enthusiasm for our exciting life. Please keeping curious, after all, *the best people in life are free*.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
- <source media="(prefers-color-scheme: light)" srcset="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
- <img alt="My profile banner" src="https://dream-oyh.pages.dev/assets/images/Fearless!.png">
-</picture>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)
 
 [Click here! Welcome to my blog](https://dream-oyh.pages.dev/)
@@ -28,4 +22,5 @@ Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pac
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="c++" height="50" />
 
-visitors: ![Visitor Count](https://profile-counter.glitch.me/dream-oyh/count.svg)
+visitors:
+<img src="https://komarev.com/ghpvc/?username=dream-oyh&&style=flat-square" align="center" />
