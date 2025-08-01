@@ -1,6 +1,6 @@
 #### This is Forrest.
 
-Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pace to explore the wide code world. I am addicted to writing articles on WeChat Public to express enthusiasm for our exciting life. Keeping curious, always believe *the best people in life are free*.
+Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pace to explore the wide code world. I am dedicated to writing articles on WeChat Public to express enthusiasm for our exciting life. Keeping curious, always believe *the best people in life are free*.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)
 
