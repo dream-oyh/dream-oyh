@@ -1,8 +1,6 @@
 #### This is Forrest.
 
-Hi, I'm Forrest! I'm a continuous CS learning amateur, following my friend's pace to explore the wide code world. I am dedicated to writing articles on WeChat Public to express my enthusiasm for our exciting life. Keeping curious, always believe *the best people in life are free*.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-oyh&show_icons=true&theme=vue)
+Hi, I'm Forrest! I am a doctoral student in mechanical engineering, mainly focusing on the embodied intelligence of underwater robots based on reinforcement learning. Welcome to exchanging ideas with me!
 
 #### [Click here! Welcome to my blog](https://dream-oyh.pages.dev/)
 
